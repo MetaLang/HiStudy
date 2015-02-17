@@ -1,0 +1,1061 @@
+{
+  "questionSets": [
+    {
+      "type": "person",
+      "focus": "Ernst Thalmann",
+      "questions": [
+        {
+          "text": "Leader of the ___",
+          "answer": "kpd",
+          "hint": "A popular political party of the time that the Nazis hated"
+        },
+        {
+          "text": "What was his prior occupation?",
+          "answer": "dockworker",
+          "hint": "Someone who loads cargo onto ships from the dock"
+        },
+        {
+          "text": "What kind of image did he try to cultivate for himself?",
+          "answer": "tough",
+          "hint": "Starts with 't'"
+        },
+        {
+          "text": "What was his biggest asset during elections?",
+          "answer": "passionate speeches",
+          "hint": "Passionate speeches"
+        },
+        {
+          "text": "His election platform was not based on an ___",
+          "answer": "ideology",
+          "hint": "A system of ideas and ideals"
+        },
+        {
+          "text": "When making an appearance, he would always remove his ___ to emphasize that he was a member of the working class",
+          "answer": "tie",
+          "hint": "A piece of fabric worn around the neck"
+        },
+        {
+          "text": "He became a member of the Reichstag in ___ and chairman of the KPD in ___",
+          "answer": "1924, 1925",
+          "hint": ""
+        },
+        {
+          "text": "He split the ___ vote and ensured that Hindenburg won",
+          "answer": "centre-left",
+          "hint": "left of centre"
+        },
+        {
+          "text": "The KPD's slogan was 'A vote for Hindenburg is a vote for ___; a vote for ___ is a vote for ___'",
+          "answer": "hitler, hitler, war",
+          "hint": "Voting for Hindenburg was voting for the leader of the Nazi party, and voting for the leader of the Nazi party was a vote for large-scale armed conflict"
+        },
+        {
+          "text": "He proposed that the SPD and KPD organize a ___ to topple Hitler, but this was not achieved",
+          "answer": "general strike",
+          "hint": "An period during which workers refuse to work"
+        },
+        {
+          "text": "He called for a ___ of Hitler's government",
+          "answer": "violent overthrow",
+          "hint": "An overthrow of the government using violence"
+        },
+        {
+          "text": "He was arrested by the Gestapo in ___ and held in solitary confinement for ___ years",
+          "answer": "1933, 11",
+          "hint": "The year the Nazis were elected; 11 years"
+        },
+        {
+          "text": "He was ___ in the Buchenwald concentration camp on the orders of ___ in ___",
+          "answer": "shot, hitler, 1944",
+          "hint": "Shot; The leader of the Nazi party; The year before the end of the war"
+        },
+        {
+          "text": "When he died, his body was immediately ___",
+          "answer": "cremated",
+          "hint": "The burning of a body"
+        },
+        {
+          "text": "The Nazis said he died in an ____",
+          "answer": "allied bombing",
+          "hint": "When Allies attacked Germany by dropping bombs"
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "focus": "Presidential Elections of 1932",
+      "questions": [
+        {
+          "text": "This election was basically between ___, ___, and ___",
+          "answer": "adolph hitler, ernst thalmann, paul von hindenburg",
+          "hint": "The leader of the Nazi party, the leader of the KPD, and the president of Germany at the time"
+        },
+        {
+          "text": "Hindenburg's main election platform was that he was the only man able to stop ___",
+          "answer": "hitler",
+          "hint": "The leader of the Nazi party"
+        },
+        {
+          "text": "Hitler's main election platform was that he was the ___ of the German people",
+          "answer": "saviour",
+          "hint": "Saviour"
+        },
+        {
+          "text": "Hitler was allowed to run in the presidential election because he gained citizenship in ___",
+          "answer": 1932,
+          "hint": "The year before the Nazis were elected"
+        },
+        {
+          "text": "Who was the winner of the 1932 presidential elections?",
+          "answer": "hindenburg",
+          "hint": "The man who was already president at the time"
+        },
+        {
+          "text": "Who did the winner elect as the chancellor?",
+          "answer": "franz von papen",
+          "hint": "___ von papen"
+        },
+        {
+          "text": "True or false? Germany continued to have presidential elections after the Nazis took power, but they were only symbolic as Hitler always won 100% of the votes",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Hindenburg did not like political office, and was only convinced to run so that he could stop Hitler from gaining power",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "In the first round of the election, the nominee had to win ___ percent of the vote. In the second round, the had to win the ___ percent of the vote",
+          "answer": "50, highest",
+          "hint": "In the first round, the nominee needed a majority. In the second round, they needed a plurality"
+        },
+        {
+          "text": "True or false? The election always had to go through both rounds before a president was chosen",
+          "answer": false,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Volksgemeinschaft",
+      "questions": [
+        {
+          "text": "The Nazis conceived as Volksgemeinschaft as a ___ where a person's ___ determines their place in society",
+          "answer": "racial state, race",
+          "hint": "The Nazis were heavily focused on this aspect of humans during their rule"
+        },
+        {
+          "text": "What does 'Volksgemeinschaft' mean?",
+          "answer": "people's community",
+          "hint": "A community that belongs to the people"
+        },
+        {
+          "text": "True or false: the Nazis perverted the term 'Volksgemeinschaft' from its original meaning",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "The Nazi party saw history as an ongoing ___ between different 'races' for power",
+          "answer": "battle",
+          "hint": "Another word for conflict"
+        },
+        {
+          "text": "The end goal of the Nazis was to promote 'racial hygiene' through the use of ___",
+          "answer": "eugenics",
+          "hint": "The science of improving a human population by controlled breeding to increase the occurrence of desirable traits"
+        },
+        {
+          "text": "The Nazi party passed strict laws against ___",
+          "answer": "race mixing",
+          "hint": "Two people of different races getting married"
+        },
+        {
+          "text": "Volksgemeinschaft laws passed by the Nazis created societal ___ and ___",
+          "answer": "insiders, outsiders",
+          "hint": "Those on the inside of society and those on the outside of society"
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Youth and Children in the Volksgemeinschaft",
+      "questions": [
+        {
+          "text": "To help the Nazi party appeal to youth, the Nazis established ___",
+          "answer": "nazi youth groups",
+          "hint": "Groups for children that extolled Nazi values"
+        },
+        {
+          "text": "A Nazi group established for boys was the ___",
+          "answer": "hitler youth",
+          "hint": "A youth group for boys that taught its members complete devotion to Adolph Hitler"
+        },
+        {
+          "text": "A Nazi group established for girls was the ___",
+          "answer": "league for german girls",
+          "hint": "A youth group for girls that taught its members complete devotion to Adolph Hitler"
+        },
+        {
+          "text": "These Nazi groups emphasized the ___ over ___",
+          "answer": "state, individualism",
+          "hint": "The community over the person"
+        },
+        {
+          "text": "True or false? The boys in these groups, among other things, underwent military training",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Members of these groups were required to swear allegiance to Hitler",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Schools during Nazi rule had their curriculi heavily modified so as to be more 'Nazified'",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "The Nazis wanted schools to educate the children in 'The Spirit of ___'",
+          "answer": "national socialism",
+          "hint": "The Nazis' form of government"
+        },
+        {
+          "text": "Teachers were forced to join the ___ or they would be fired",
+          "answer": "national socialists teacher's league",
+          "hint": "A national league for socialist teachers"
+        },
+        {
+          "text": "True or false? All children complied and joined a youth group",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Children who were in 'resistance' groups would beat up Hitler Youth and steal their camping supplies",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Children who were in 'resistance' groups saw the Hitler Youth as stuffy and conformist",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Hans and Sophie Scholl formed the ___ resistance group that wrote anti-Nazi pamphlets",
+          "answer": "white rose",
+          "hint": ""
+        },
+        {
+          "text": "True or false? Hans and Sophie Scholl were never caught, but Nazi investigation forced them to stop publishing",
+          "answer": false,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "German Women and the Volksgemeinschaft",
+      "questions": [
+        {
+          "text": "One of the Nazis' goals was to restore 'proper' ___",
+          "answer": "gender roles",
+          "hint": "The roles of men and women in society"
+        },
+        {
+          "text": "It was strongly encouraged that women be ___ and ___",
+          "answer": "mothers, wives",
+          "hint": "A person who bears children; A person who is married"
+        },
+        {
+          "text": "The Nazis were very opposed to ___",
+          "answer": "feminism",
+          "hint": "An ideology that promotes equality between men and women"
+        },
+        {
+          "text": "The Nazis promoted the '3 Ks' among women: ___, ___, and ___",
+          "answer": "church, children, cooking",
+          "hint": "What Christians attend on Sunday; Young people; Preparing food"
+        },
+        {
+          "text": "Women in a ___ setting were strongly discouraged",
+          "answer": "professional",
+          "hint": "The setting in a work environment which consists of highly skilled people"
+        },
+        {
+          "text": "Hitler said that ___ were the most important citizens",
+          "answer": "mothers",
+          "hint": "A woman who has children"
+        },
+        {
+          "text": "Nazis replaced women's groups with the ___",
+          "answer": "league of german women",
+          "hint": "A league for german women"
+        },
+        {
+          "text": "Nazis wanted to raise the ___ of Aryan people",
+          "answer": "birth rate",
+          "hint": "The rate at which children are born"
+        },
+        {
+          "text": "The Nazis were strongly against ___ and ___",
+          "answer": "birth control, abortion",
+          "hint": "Methods of controlling whether a child is conceived or not; The destruction of a fetus after impregnation"
+        },
+        {
+          "text": "If they had a certain number of children, women received ___",
+          "answer": "medals",
+          "hint": "A physical reward for accomplishing something, usually worn around the neck"
+        },
+        {
+          "text": "The Nazis gave out a ___ for ___ marks when a couple got married",
+          "answer": "marriage loan, 1000",
+          "hint": "A loan given to a couple that gets married"
+        },
+        {
+          "text": "For each child a couple had, the Nazis forgave ___ marks from the marriage loan",
+          "answer": 250,
+          "hint": ""
+        },
+        {
+          "text": "___ was seen as the ideal mother. She became the 'first lady' of Nazism",
+          "answer": "magda goebbels",
+          "hint": "Joseph Goebbels' wife"
+        },
+        {
+          "text": "Joseph Goebbels' wife had ___ children",
+          "answer": 5,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "T-4",
+      "questions": [
+        {
+          "text": "T-4 was postware designation for a Nazi program of ___",
+          "answer": "forced euthanasia",
+          "hint": "The medical term for killing someone, done against their will"
+        },
+        {
+          "text": "Physicians were told to judge their patients as ___",
+          "answer": "incurably sick",
+          "hint": "A state of sickness in which the patient cannot be cured"
+        },
+        {
+          "text": "True or false? During the war, the parents of a severely deformed child wrote Hitler asking for permission to kill him",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Hitler formed a committee called 'The Reich Committee for the Scientific ___ of Serious ___ and ___ illnesses'",
+          "answer": "registering, hereditary, congenital",
+          "hint": "To make a record of someone in a registry; Passed down via genetics; Present from birth"
+        },
+        {
+          "text": "True or false? After this, the Nazis used the precedent set to establish a euthanasia program for children with severe disabilities",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "The ___ began requiring doctors and midwives to report cases of newborns with disabilities",
+          "answer": "interior ministry",
+          "hint": "ministry of the interior"
+        },
+        {
+          "text": "Hitler signed a 'euthanasia decree' in ___",
+          "answer": 1939,
+          "hint": "The year of the outbreak of World War 2"
+        },
+        {
+          "text": "___ Brandt and Philipp ___ developed plans to extend the euthanasia program to adults",
+          "answer": "karl, bouhler",
+          "hint": ""
+        },
+        {
+          "text": "True or false? The adult euthanasia program targeted ONLY those deemed by the nazis as criminal, degenerate, dissident, feeble-minded, homosexual, idle, insane, or weak.",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "Over ___ people were forcibly sterilized as a part of T-4",
+          "answer": "400,000",
+          "hint": ""
+        },
+        {
+          "text": "___ people were euthanized as a part of T-4",
+          "answer": "275,000",
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Nuremberg Laws",
+      "questions": [
+        {
+          "text": "___ laws were introduced at the annual Nuremberg Rally of the Nazi party",
+          "answer": "anti semitic",
+          "hint": "Laws that specifically oppress Jews"
+        },
+        {
+          "text": "People with ___ German grandparents were considered 'German or kindred blood'",
+          "answer": 4,
+          "hint": ""
+        },
+        {
+          "text": "People with ___ or ___ Jewish grandparents were considered Jewish",
+          "answer": "3, 4",
+          "hint": ""
+        },
+        {
+          "text": "People with ___ or ___ Jewish grandparents were considered 'mischling' (crossbreed, of mixed-blood)",
+          "answer": "1, 2",
+          "hint": ""
+        },
+        {
+          "text": "People with German blood were classified as 'racially ___'",
+          "answer": "acceptable",
+          "hint": "Another word for normal, permitted"
+        },
+        {
+          "text": "True or false? Jews lost their citizenship and German-Jewish marriages were prohibited",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "In ___, these laws were extended to ___, ___, and their 'bastard offpsring'",
+          "answer": "1935, gypsies, negroes",
+          "hint": "4 years before the war; A nomadic people who are discriminated against in Europe; People originally from Africa with dark skin"
+        },
+        {
+          "text": "The Law for the Protection of German Blood and German Honour prohibited German women under 45 years of age from ___",
+          "answer": "working in jewish households",
+          "hint": "Being employed by a Jewish family to do housework"
+        },
+        {
+          "text": "The same law also prohibited ___ between Jews and Germans",
+          "answer": "extramarital intercourse",
+          "hint": "Sex between a Jew and a German outside of marriage"
+        },
+        {
+          "text": "Interbreeding between the 'undesirable' races and Aryans was referred to as 'Rassenschande' or 'racial ___'",
+          "answer": "pollution",
+          "hint": "Harmful substances released into the environment"
+        },
+        {
+          "text": "The Reich Citizenship law declared people with German blood to be '___ of the Reich' while non-Aryans were 'state ___'",
+          "answer": "citizens, subjects",
+          "hint": "A member of a country enjoying rights and privileges; The group of people a kind rules over"
+        },
+        {
+          "text": "Between 1933 and 1939, there were over ___ decrees and regulations that restricted aspects of public and private life, especially for Jews",
+          "answer": 400,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "focus": "Kristallnacht",
+      "questions": [
+        {
+          "text": "Known in English as ___",
+          "answer": "night of broken glass",
+          "hint": "A night where windows of Jewish shops, houses, and synagogues were smashed"
+        },
+        {
+          "text": "500,000 Jews were blamed for ___, ___, and the Great ___",
+          "answer": "world war 1, hyperinflation, depression",
+          "hint": "The first world war; A massive inflation in prices and devaluation of money; A severe economic recession"
+        },
+        {
+          "text": "In 1938, Germany announced that residence permits for foreigners needed to be ___ or the bearer would be expelled from Germany",
+          "answer": "renewed",
+          "hint": "A re-registration of a permit"
+        },
+        {
+          "text": "True or false? Poland reluctantly agreed to take all Jews of Polish origin",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "In 1938, ___ jews were expelled from Germany",
+          "answer": "12,000",
+          "hint": ""
+        },
+        {
+          "text": "Among the Jews trapped at the Polish border was the ___ family",
+          "answer": "grynszpan",
+          "hint": "Starts with 'g'"
+        },
+        {
+          "text": "Their son ___ was in Paris with an uncle. When he received their postcard telling him about their terrible circumstances, he purchased a weapon, went to the German embassy, and shot ___ vom Rath",
+          "answer": "herschel, ernst",
+          "hint": "Starts with 'h'; Starts with 'e'"
+        },
+        {
+          "text": "True or false? Ernst vom Rath survived his injuries",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Goebbels took advantage of the situation in Hitler's absence after learning of Ernst vom Rath's death, and organized a Germany and Austria-wide pogrom",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "The pogrom made to look spontaneous, but it was actually instigated by the ___ paramilitary (brownshirts)",
+          "answer": "sa",
+          "hint": "A paramilitary group that were very prominent in the early years of the Nazi party"
+        },
+        {
+          "text": "True or false? The SA were the only ones that smashed Jewish establishments during the Kristallnacht",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? The police tried to stop the looting and destruction, but they were overwhelmed ",
+          "answer": false,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "focus": "Anti-Nazi Resistance in the Third Reich",
+      "questions": [
+        {
+          "text": "True or false? There was almost no organized resistance to Hitler's regime between 1933 and 1938",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "During Nazi rule, other political parties and ___ were suppressed",
+          "answer": "trade unions",
+          "hint": "An organization that fights for the rights of workers"
+        },
+        {
+          "text": "The Nazis tightly controlled the ___ and the ___",
+          "answer": "press, radio",
+          "hint": "Two major forms of German news coverage"
+        },
+        {
+          "text": "During this time, the SPD and KPD maintained ___",
+          "answer": "underground networks",
+          "hint": "Communication networks that go without government notice"
+        },
+        {
+          "text": "The ___ managed to infiltrate many of these networks and get some of the members executed",
+          "answer": "gestapo",
+          "hint": "Germany's secret police force"
+        },
+        {
+          "text": "These underground parties had a lot of recruits from the ___ class due to the stringent labour discipline imposed by the Nazis",
+          "answer": "industrial working",
+          "hint": "Members of the working class who do industrial work"
+        },
+        {
+          "text": "True or false? These parties achieved a lot before the Nazis crushed them entirely",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "Germany signed a concordat with the Catholic Church in ___",
+          "answer": 1933,
+          "hint": "The year the Nazis came to power"
+        },
+        {
+          "text": "True or false? Catholic opposition to the Nazi government mostly ended after the concordat was signed",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Many attempts were made on Hitler's life",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "One assassination attempt was carried out in 1944 by several German officers. They used a modified version of a plan called ___ to take control of the country after Hitler was assassinated",
+          "answer": "operation valkyrie",
+          "hint": "An operation for continuity of government in the case of a major breakdown in the civil order"
+        },
+        {
+          "text": "True or false? Operation Valkyrie failed due to the generals' failure to assassinate Hitler",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Another assassination attempt was by George ___, who planted a bomb in a pillar near where Hitler was to give a speech",
+          "answer": "elser",
+          "hint": "Starts with 'e'"
+        },
+        {
+          "text": "George Elser's plan failed because: a) his bomb failed to go off, or b) Hitler finished his speech early",
+          "answer": "b",
+          "hint": ""
+        },
+        {
+          "text": "Elser was kept as a special prisoner for 5 years without trial, and was later killed at ___",
+          "answer": "dachau",
+          "hint": "Starts with a 'd'"
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Hitler's Foreign Policy from 1933-1939",
+      "questions": [
+        {
+          "text": "The Nazis saw war in the Polish lands as a '___ mission'",
+          "answer": "civilizing",
+          "hint": "The act oof bringing civilization to an uncivilized place"
+        },
+        {
+          "text": "Another motivation for the war on Poland was that the Nazis felt Germany needed more ___",
+          "answer": "lebensraum",
+          "hint": "Germany word, translates to 'living space'"
+        },
+        {
+          "text": "One goal was to reclaim ___",
+          "answer": "lost german land",
+          "hint": "Land that Germany believed had been taken away from it"
+        },
+        {
+          "text": "Another goal was to turn the Slavic people into a ___",
+          "answer": "slave race",
+          "hint": "A race of subjugated people"
+        },
+        {
+          "text": "True or false? Large numbers of Poles were expelled to make way for Germans",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Polish Jews were forced into ___",
+          "answer": "ghettos",
+          "hint": "A part of a city, especially a slum area, occupied by minority groups"
+        },
+        {
+          "text": "Many Jews were sent to ___ camps and ___ camps",
+          "answer": "concentration, labour",
+          "hint": "A camp where a large number of people are kept without trial; A camp where people are forced into slave labour"
+        },
+        {
+          "text": "During their occupation of Poland, the Nazis: a) destroyed cultural monuments, b) looted museums and libraries, c) censored entertainment for Polish people only, d) restricted education for Polish people only, e) all of the above",
+          "answer": "e",
+          "hint": ""
+        },
+        {
+          "text": "True or false? Germany exported 1.5 million Polish labourers back to Germany to work as slaves during 1939-1945",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Of the 5 million civilian deaths, ___ million were Jewish",
+          "answer": 3,
+          "hint": ""
+        },
+        {
+          "text": "Poland was split between Germany and ___",
+          "answer": "russia",
+          "hint": "A major eastern power of the time"
+        },
+        {
+          "text": "The German part of Poland was divided into the General Government and the ___",
+          "answer": "incorporated territories",
+          "hint": "Territories that are not part of Germany, but were incorporated into the reich"
+        },
+        {
+          "text": "True or false? The Nazis imprisoned or killed 48,000 Polish members of the 'elite', such as teachers, priests, bureaucrats, etc.",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "This plan to eliminate the Polish elite and undermine resistance was known as the ___",
+          "answer": "ab-aktion",
+          "hint": "Starts with 'a'"
+        },
+        {
+          "text": "True or false? The Nazis kidnapped 50,000 Polish children who had 'German blood' and sent them to live with Germany families",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Hitler's first 'defeat' was when ___ refused to sue for peace",
+          "answer": "britain",
+          "hint": "An island nation off the coast of Europe"
+        },
+        {
+          "text": "Hitler had plans to also invade ___ against the protests of his advisors",
+          "answer": "russia",
+          "hint": "The country that Germany agreed to divide Poland with"
+        },
+        {
+          "text": "True or false? The Nazi generals did not want a two-front war with Russia",
+          "answer": true,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "The Cult of Hitler",
+      "questions": [
+        {
+          "text": "The positive public image of Hitler was maintained through ___",
+          "answer": "propoganda",
+          "hint": "Material spread by a government seeking to influence the public"
+        },
+        {
+          "text": "The German people wanted a ___ man to get Germany out of its economic slump and the Treaty of Versaille",
+          "answer": "strong",
+          "hint": "Another word for powerful"
+        },
+        {
+          "text": "Hitler was portrayed as a hero of ___",
+          "answer": "world war 1",
+          "hint": "The first great world war"
+        },
+        {
+          "text": "Hitler was popular partially because of his promise for justice over ___ and ___",
+          "answer": "world war 1, the treaty of versaille",
+          "hint": "The first great war; The treaty Germany was forced into at the end of the war"
+        },
+        {
+          "text": "True or false? Hitler was portrayed as the latest in a line of glorious Germany leaders",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Hitler meticulously micromanaged every decision in the Nazi government",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Hitler made very few key decisions within the government",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Many of Hitler's followers within the party went out of their way to please or impress him, doing things that he didn't specifically order",
+          "answer": true,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "focus": "Operation Bararossa",
+      "questions": [
+        {
+          "text": "Germany and Russia signed a non-aggression pact between them in ___",
+          "answer": 1939,
+          "hint": "The year the war broke out"
+        },
+        {
+          "text": "Germany invaded Russia in ___",
+          "answer": 1941,
+          "hint": "2 years after the start of the war"
+        },
+        {
+          "text": "Germany invaded Russia with ___ million men",
+          "answer": 4,
+          "hint": ""
+        },
+        {
+          "text": "The Nazis' invasion of Russia was positioned as a crusade against ___",
+          "answer": "bolshevism",
+          "hint": "The Russian communist government system of the time"
+        },
+        {
+          "text": "True or false? The Russian Red Army knew the Nazis were coming",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "The German advance made it to ___",
+          "answer": "moscow",
+          "hint": "Russia's capital city"
+        },
+        {
+          "text": "Stalin rallied the people and implemented a ___ policy to deter the Germans",
+          "answer": "scorched earth",
+          "hint": "Destroying anything usable as you retreat so your enemy cannot use it"
+        },
+        {
+          "text": "The cold and rainy ___ also hampered the Germans' invasion effort",
+          "answer": "weather",
+          "hint": ""
+        },
+        {
+          "text": "True or false? After the failure of the German invasion, the Russians mounted a counter-offensive that drove the Germans back",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "This war is referred to as a 'war of ___'",
+          "answer": "ideologies",
+          "hint": "A system of political or economic ideals"
+        },
+        {
+          "text": "True or false? During the German-Russian war, the German army adhered to the Geneva Conventions governing armed warfare",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "The Nazis saw the German-Russian war as a 'War of ___'",
+          "answer": "annihilation",
+          "hint": "To wipe from existence"
+        },
+        {
+          "text": "In 1943, Goebbels called for ___ against the Russians",
+          "answer": "total war",
+          "hint": "The involvement of the entire country in a war effort"
+        },
+        {
+          "text": "True or false? This war was a major defeat and a major turning point for Nazi Germany",
+          "answer": true,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Strategic Aerial Bombing",
+      "questions": [
+        {
+          "text": "The bombing of Hamburg was referred to by the Allies as 'Operation ___'",
+          "answer": "gomorrah",
+          "hint": "One of the biblical cities that was destroyed for its immorality"
+        },
+        {
+          "text": "The goals of the Allied bombing missions were to destroy Germany ___, ___ lines, and ___ production",
+          "answer": "communications, supply, oil",
+          "hint": "Communications; Method of moving goods from one place to another; A substance necessary to move the German vehicles"
+        },
+        {
+          "text": "Other goals of the bombing operation were to reduce the 'material ___ for war' and to weaken civilian ___",
+          "answer": "capacity, morale",
+          "hint": "The ability to do something; The emotional state of the people in a time of war"
+        },
+        {
+          "text": "True or false? Beside Operation Gomorrah, other German cities were also bombed",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "The bombings were carried out by the ___ and the ___ air forces",
+          "answer": "british, american",
+          "hint": "An island nation off the coast of Europe; One of Britain's former colonies"
+        },
+        {
+          "text": "The dropping of bombs in Hamburg created a ___",
+          "answer": "firestorm",
+          "hint": "A storm of fire"
+        },
+        {
+          "text": "True or false? The bombings made people angry at Hitler",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Despite the bombings, Germans still wanted Hitler to continue the war",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? The civilians were worried about what would happen to them when the Allies found out what Germany had done",
+          "answer": true,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Ghettoization",
+      "questions": [
+        {
+          "text": "True or false? Although they were allowed to live outside them, many Jews felt forced into Jewish 'ghettos'",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "True or false? Jews living in these ghettos were allowed to do what they wanted as long as they didn't leave",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "Many ghettos were ___",
+          "answer": "sealed",
+          "hint": "Closed so nobody can escape"
+        },
+        {
+          "text": "The ghettos were extremely ___",
+          "answer": "cramped",
+          "hint": "A lack of space to fit everything in"
+        },
+        {
+          "text": "True or false? Sealed ghettos were mostly situated in German-occupied Poland",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Jews in sealed ghettos suffered from shortages of __, lack of ___, and inadequate municipal ___, leading to outbreaks of dysentery, typhus, and a high mortality rate",
+          "answer": "food, heat, services",
+          "hint": "Things to eat; Warmth; Services"
+        },
+        {
+          "text": "The German wartime ration for ghetto inhabitants was ___ calories per day",
+          "answer": 200,
+          "hint": ""
+        },
+        {
+          "text": "The poor food conditions led to a lot of ___ activity and smuggling",
+          "answer": "black market",
+          "hint": "A market for illegal goods"
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Einsatzgruppen",
+      "questions": [
+        {
+          "text": "The Einsatzgruppen were mobile ___ squads",
+          "answer": "killing",
+          "hint": "Starts with 'k'"
+        },
+        {
+          "text": "True or false? The Einsatzgruppen accompied German troops into Soviet territory as Operation Barbarossa progressed, rounding up Jews and shooting them",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Some members of the Einsatzgruppen were from the SS or the army, but most were ___",
+          "answer": "policemen",
+          "hint": "Enforcers of the law"
+        },
+        {
+          "text": "True or false? The officers of the Einsatzgruppen were highly educated",
+          "answer": true,
+          "hint": ""
+        },
+        {
+          "text": "Slight changes in German law relating to Russian political commisars made it legal to ___",
+          "answer": "kill jews",
+          "hint": "Kill the Nazis' most hated enemy"
+        },
+        {
+          "text": "Besides Jews, the Einsatzgruppen killed thousands of ___ and ___ people",
+          "answer": "gypsy, disabled",
+          "hint": "A nomadic people that are discriminated against in Europe; People who have some disability"
+        }
+      ]
+    },
+    {
+      "type": "location",
+      "focus": "Auschwitz-Birkenau",
+      "questions": [
+        {
+          "text": "Auschwitz-Birkenau was a concentration camp for: a) German prisoners, b) Polish political prisoners, c) prisoners of war, d) all of the above",
+          "answer": "d",
+          "hint": "Everyone is welcome at Auschwitz!"
+        },
+        {
+          "text": "In 1941, a slave labour camp was added, and the original was expanded for ___ prisoners of war",
+          "answer": "russian",
+          "hint": "Communists"
+        },
+        {
+          "text": "The Nazis experimented with ___ and then ___ for efficiently killing Jews",
+          "answer": "carbon monoxide, zyklon b",
+          "hint": "A gas emitted by cars; Starts with 'z'"
+        },
+        {
+          "text": "Jews started being killed this way in ___",
+          "answer": 1942,
+          "hint": "3 years before the end of the war"
+        },
+        {
+          "text": "Jews deported from across Europe to the death camps were told to pack for '___ in the East'",
+          "answer": "resettlement",
+          "hint": "Moving people back into their homes"
+        },
+        {
+          "text": "The prisoners arriving at the camps were separated into those who were ___, and the elderly, disabled, sick, and children with their mothers",
+          "answer": "fit to work",
+          "hint": "In a condition that allowed them to work"
+        },
+        {
+          "text": "The Nazis killed between 10,000 and ___ per day",
+          "answer": "12,000",
+          "hint": ""
+        },
+        {
+          "text": "Jews were identified in the camps by a ___",
+          "answer": "star of david",
+          "hint": "The symbol of the Jewish people"
+        },
+        {
+          "text": "True or false? The Allies were the first to discover the death camps",
+          "answer": false,
+          "hint": ""
+        },
+        {
+          "text": "The first people to discover the death camps were the ___",
+          "answer": "russians",
+          "hint": "The country Germany had lost a war to"
+        },
+        {
+          "text": "When he found out the Russians were coming, Himmler forced the surviving prisoners into a ___",
+          "answer": "death march",
+          "hint": "Making a group of people walk until they die"
+        },
+        {
+          "text": "True or false? The Nazis did not have enough time to destroy records of what they had done before retreating",
+          "answer": false,
+          "hint": ""
+        }
+      ]
+    },
+    {
+      "type": "concept",
+      "focus": "Animal Characterizations in Maus",
+      "questions": [
+        {
+          "text": "In Maus, mice represent the ___",
+          "answer": "jews",
+          "hint": "The Nazis' most hated enemy"
+        },
+        {
+          "text": "In Maus, the cats represent the ___",
+          "answer": "germans",
+          "hint": "The country that lost World War 2"
+        },
+        {
+          "text": "In Maus, the fish represent the ___",
+          "answer": "british",
+          "hint": "An island nation off the coast of Europe"
+        },
+        {
+          "text": "In Maus, the pigs represent the ___",
+          "answer": "poles",
+          "hint": "An Eastern European country that was split between Germany and Russia"
+        },
+        {
+          "text": "In Maus, the dogs represent the ___",
+          "answer": "americans",
+          "hint": "A former British colony in North American"
+        },
+        {
+          "text": "In Maus, the frogs represent the ___",
+          "answer": "french",
+          "hint": "A country that Germany wanted to get revenge on for the Treaty of Versaille"
+        }
+      ]
+    }
+  ]
+}
