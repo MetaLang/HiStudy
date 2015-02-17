@@ -1,0 +1,8 @@
+{
+	"name": "HiStudy",
+	"description": "A question and answer program for studying history",
+	"copyright": "Copyright © 2015, Meta",
+	"authors": ["Meta"],
+	"dependencies": {
+	}
+}
