@@ -2,9 +2,12 @@ import std.algorithm;
 import std.conv;
 import std.exception;
 import std.file;
+import std.getopt;
 import std.functional;
 import std.stdio;
+import std.string;
 import std.json;
+import std.path;
 import std.random;
 import std.string;
 
@@ -17,9 +20,24 @@ alias wrapWriteln = pipe!(wrap, std.stdio.writeln);
 
 alias CmdFunc = void function(size_t, size_t, JSONValue);
 
-void main()
+enum defaultQuestionDir = "questions";
+
+void main(string[] args)
 {
-    auto jsonText = readText(`data\questions.json`).strip().chomp();
+    string jsonFile;
+    args.getopt("file|f", &jsonFile);
+
+    enforce(jsonFile.length, "No question file specified");
+    string jsonFilePath = jsonFile;
+    //If it's just a filename, it must be the name
+    //of a file in the questions directory
+    if (!jsonFile.canFind(dirSeparator))
+    {
+        jsonFilePath = buildPath(absolutePath(defaultQuestionDir), jsonFile);
+    }
+    enforce(jsonFilePath.exists, "File '%s' does not exist".format(jsonFilePath));
+
+    auto jsonText = readText(jsonFilePath).strip().chomp();
     auto json = jsonText.parseJSON();
 
     string response;
