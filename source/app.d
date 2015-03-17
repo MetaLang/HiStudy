@@ -11,10 +11,7 @@ import std.path;
 import std.random;
 import std.string;
 
-string getResponse()
-{
-    return readln().strip().chomp().toLower();
-}
+alias getResponse = curry!(pipe!(readln, strip, chomp, toLower), '\x0a');
 
 alias wrapWriteln = pipe!(wrap, std.stdio.writeln);
 
@@ -31,7 +28,7 @@ void main(string[] args)
     string jsonFilePath = jsonFile;
     //If it's just a filename, it must be the name
     //of a file in the questions directory
-    if (!jsonFile.canFind(dirSeparator))
+    if (!jsonFilePath.canFind(dirSeparator))
     {
         jsonFilePath = buildPath(absolutePath(defaultQuestionDir), jsonFile);
     }
