@@ -7,3 +7,8 @@ __dummy.html
 *.dlangidews
 .gitignore~
 histudy
+*.exe_cv
+*.pdb
+*.sln
+*.v12.suo
+*.visualdproj
